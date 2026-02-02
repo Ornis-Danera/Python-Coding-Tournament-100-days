@@ -1,4 +1,4 @@
-
+def label_encode(labels):
 labels = ["dog", "cat", "dog", "bird", "cat"]
 
 
